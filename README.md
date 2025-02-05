@@ -5,7 +5,7 @@ This is a test automation framework built using **Node.js** and **Cucumber** for
 
 ## Project Structure
 ```
-cucumber-mathematics/
+cucumbertest/
 ├── features/
 │   ├── cucumber.feature
 │   └── stepDefinitions/
